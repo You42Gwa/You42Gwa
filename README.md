@@ -53,8 +53,7 @@ Developer with a focus on AI and backend systems. Currently deep in the world of
 ## Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=You42Gwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=You42Gwa&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img src="https://streak-stats.demolab.com?user=You42Gwa&theme=tokyonight&hide_border=true&date_format=Y.n.j" />
 </p>
 
 <br/>
